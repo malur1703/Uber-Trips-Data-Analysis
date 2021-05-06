@@ -1,6 +1,6 @@
-###Uber-Trips-Data-Analysis
+# Uber-Trips-Data-Analysis
 
-Analysing data on uber trips in New York to find interesting patterns
+## Analysing data on uber trips in New York to find interesting patterns
 
 --->Loaded and collected data so that it can be analyzed
 
